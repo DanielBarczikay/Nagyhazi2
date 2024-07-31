@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nagyhazi", "nagyhazi\nagyhazi.vcxproj", "{D670B7F8-08F5-4398-A868-016FC8BCB3A8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C91A9213-7F22-49F7-8DD8-7301538B4384}"
+	ProjectSection(SolutionItems) = preProject
+		nagyhazi\gtest_lite.h = nagyhazi\gtest_lite.h
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D670B7F8-08F5-4398-A868-016FC8BCB3A8}.Debug|x64.ActiveCfg = Debug|x64
+		{D670B7F8-08F5-4398-A868-016FC8BCB3A8}.Debug|x64.Build.0 = Debug|x64
+		{D670B7F8-08F5-4398-A868-016FC8BCB3A8}.Debug|x86.ActiveCfg = Debug|Win32
+		{D670B7F8-08F5-4398-A868-016FC8BCB3A8}.Debug|x86.Build.0 = Debug|Win32
+		{D670B7F8-08F5-4398-A868-016FC8BCB3A8}.Release|x64.ActiveCfg = Release|x64
+		{D670B7F8-08F5-4398-A868-016FC8BCB3A8}.Release|x64.Build.0 = Release|x64
+		{D670B7F8-08F5-4398-A868-016FC8BCB3A8}.Release|x86.ActiveCfg = Release|Win32
+		{D670B7F8-08F5-4398-A868-016FC8BCB3A8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49C07D42-F536-4957-AA2E-EBE94143F8E3}
+	EndGlobalSection
+EndGlobal
